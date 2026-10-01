@@ -1,0 +1,31 @@
+AULA_01: Introdução breve sobre professor e curso
+
+    Experiencias do professor, Explicação do curso...
+    Experiencias Hands-on:
+        Custos AWS vs Free Tier
+
+
+AULA_02: História AWS e Mercado de Trabalho
+
+    2002-2006: Desenvolvimento da AWS interna;
+    2006-2016: Lançamento da AWS e desenvolvimento de recursos especializados (RDS, Redshift e o Amazon ML)
+    2016-HOJE: Dominio do mercado e COVID-19
+
+    Boas posições no mercado como engenheiro de dados;
+    Principalmente na Gringa.
+
+
+AULA_03: Criação da conta da AWS
+
+    Atenção no cadastro de usuario root;
+    Necessario vincular cartão de credito. (Mas tem serviços gratis);
+
+
+AULA_04: Cloud Computing: o que é e quais os principais tipos
+
+    Cloud Computing é a entrega por demanda de recursos;
+    Pode provisionar a quantidade de recursos que necessita;
+    Rede e Hardware são gerenciados pelo provedor;
+    Recursos são dispinibilizados e romividos instataneamente;
+
+
