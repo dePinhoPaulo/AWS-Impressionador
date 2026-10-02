@@ -1,0 +1,29 @@
+AULA_01: IAM: Introdução
+
+    IAM: Identity and Access Menagement
+        Gereciamento de permissões, grupos, usuarios, etc...
+        Serviço global,
+        Conta root.
+
+
+AULA_02: IAM: Usuários e Grupos
+
+    Painel IAM:
+        Criação de outros usuasuarios (Evitar usar o root);
+        Permissão de utilizar painel de gerenciamento da AWS;
+        Vincular usuario a um grupo;
+        Adicionar Tag ao usuario;
+
+        Criação de grupos;
+        Gerenciar permissões;
+
+
+AULA_03: IAM: Seu usuário e MFA
+
+    Diferença entre usuario root e admin:
+        Com root posso desabilitar as permissões até do admin;
+    
+    MFA:
+        Usuarios > Habilitar MFA
+        Recomendado: Google Authenticator
+
