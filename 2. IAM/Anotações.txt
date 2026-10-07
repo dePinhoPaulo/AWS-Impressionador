@@ -27,3 +27,29 @@ AULA_03: IAM: Seu usuário e MFA
         Usuarios > Habilitar MFA
         Recomendado: Google Authenticator
 
+
+AULA_04: IAM: Alias de Conta e Políticas
+
+    Cria alias para não ter que usar o ID gerado automatico sempre.
+        Id de conta da AWS é muito extenso, pedendo ser siplificado com o alias da conta.
+
+    Detalhes de politicas:
+        Mostrar cada premissão na politica selecionada.
+
+
+AULA_05: IAM: AWS CloudShell 
+
+    CloudShell:
+        Barra superior, ao lado de notificações
+        Baixar e carregar arquivos;
+
+    Comandaos basicos:
+        Listar todos usuarios:
+            $ aws iam list-users
+        
+        Printar texto em um arquivo txt:
+            $ echo "data" > text.txt
+            $ ls # mostra arquivos da pasta
+            $ cat text.txt # mostra texto do arquivo
+            $ pwd # caminho do pasta atual
+            
